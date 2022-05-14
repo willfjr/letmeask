@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
+  <img alt="Letmeask" src="https://raw.githubusercontent.com/willfjr/letmeask/bc767765b694b949f0ad72bce50207ae624fb2af/src/assets/images/logo.svg" width="160px">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/3a34d644047e0ff7f4389edfb2d39ceda62fd8f7/.github/cover.svg" />
 </h1>
 
 <br>
@@ -25,8 +25,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 🚀 Como executar
-
-Clone o projeto e acesse a pasta do mesmo.
+Clique aqui:
+##### [LetMeAsk](https://letmeask-project-01.web.app/) ou clone o projeto e acesse a sua pasta.
 
 ```bash
 $ git clone https://github.com/rocketseat-education/nlw-06-reactjs
@@ -49,7 +49,7 @@ Lembrando que será necessário criar uma conta no [Firebase](https://firebase.g
 
 Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática.
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+Este é um projeto desenvolvido para fins de treinamento e aprimoramento das minhas habilidades com React.js.
 
 
 ## 🔖 Layout
@@ -66,4 +66,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Rocketseat 👋🏻 [Participe da nossa comunidade](https://discord.gg/gKUVrzrPrU)
+Feito por Will Ferreira todos os créditos a 🚀 [Rocketseat](https://discord.gg/gKUVrzrPrU)
